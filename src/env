@@ -1,4 +1,0 @@
-PORT=5000
-
-MONGO_URI=mongodb+srv://n01547224:saeed123@cluster0.jhwzocs.mongodb.net/projectangular?retryWrites=true&w=majority
-JWT_SECRET=saeed123
